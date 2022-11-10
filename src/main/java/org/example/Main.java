@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Harold Bishop would smash him");
 
         System.out.println("Mike Dundee would have the both of them, You call that a knife?");
-        
+        // That's not a knife..
     }
 }
